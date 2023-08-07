@@ -1,8 +1,8 @@
-# Twitter_Sentiment-Analysis_Classical-Approach
-This project focuses on applying classical NLP and Machine Learning models for Predicting Depression from Twitter Tweets. The project was done in several steps as follows:
+# Twitter Emotion Analysis using Classical Methods - Predicting Depression from Tweets
+This project focuses on applying classical NLP and Machine Learning models for emotion analysis on twitter data, specifically, Predicting Depression from Twitter Tweets. The project was done in several steps as follows:
 
 1. **Exploration**
-   - In this part I have focused on conducitng initial analysis of the data using visualization and descriptive statistics.
+   - In this part I have focused on conducting initial analysis of the data using visualization and descriptive statistics.
    - Visualizations including wordcloud were used to better understand the most frequent words.
    - The target variable was encoded, preparing it for further steps.
 
